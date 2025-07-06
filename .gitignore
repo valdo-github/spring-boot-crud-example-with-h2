@@ -1,16 +1,5 @@
 /config/
 target/
-dist/
-node/
-node_modules/
-bin/
-work/
-temp/
-
-build.cmd
-build-*.cmd
-runme-*.cmd
-runme.cmd
 
 ### IntelliJ IDEA ###
 .idea
